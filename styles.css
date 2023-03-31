@@ -1,0 +1,215 @@
+.header {
+    color: black;
+    text-align: center;
+    cursor: default;
+    background-color: aqua;
+    width: 1520px;
+    font-weight: 700;
+    font-size: x-large;
+    }
+    
+    .home-button {
+    position: absolute;
+    left: 77%;
+    top: 1.25%;
+    border: none;
+    background-color: aqua;
+    cursor: pointer;
+    font-weight: 700;
+    color: red;
+    font-size: large;
+    }
+    
+    .cart {
+    position: absolute;
+    left: 82%;
+    top: 1.4%;
+    border: none;
+    color: red;
+    background-color: aqua;
+    font-weight: 700;
+    font-size: large;
+    cursor: pointer;
+    }
+    
+    .about {
+    position: absolute;
+    left: 86%;
+    top: 1.4%;
+    border: none;
+    color: red;
+    background-color: aqua;
+    font-weight: 700;
+    font-size: large;
+    cursor: pointer;
+    }
+    
+    .contact-button {
+    position: absolute;
+    left: 91%;
+    top: 1.5%;
+    background-color: aqua;
+    color: red;
+    font-weight: 700;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+    }
+    
+    .shirt1 {
+    color: black;
+    margin-left: 30px;
+    font-size: xx-large;
+    position: absolute;
+    left: 6%;
+    top: 30%;
+    font-weight: 700;
+    }
+    
+    .lauzablackshirt {
+    border-radius: 15px;
+    width: 400px;
+    text-align: left;
+    right: 73%;
+    font-size: larger;
+    position: absolute;
+    bottom: 20%;
+    }
+    
+    .addtocart-hoodie {
+    font-weight: bold;
+    background: rgb(73, 211, 73);
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: 3px 5px;
+    cursor: pointer;
+    margin: 1px;
+    bottom: 10%;
+    font-size: larger;
+    width: 9%;
+    right: 90%;
+    }
+    
+    .dropdown2 {
+    border-color: black;
+    position: relative;
+    left: 60%;
+    top: 89%;
+    bottom: 35%;
+    margin-top: 10px;
+    }
+    
+    .dropdown2 {
+    border-color: black;
+    position: relative;
+    left: 60%;
+    top: 89%;
+    bottom: 35%;
+    margin-top: 10px;
+    }
+    
+    .description {
+    font-size: large;
+    color: black;
+    margin-left: 5%;
+    position: absolute;
+    left: 10%;
+    top: 68%;
+    width: 80%;
+    }
+    
+    .addtocart-hoodie {
+    font-weight: bold;
+    background: rgb(73, 211, 73);
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: 3px 5px;
+    cursor: pointer;
+    margin-left: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 43%;
+    width: 90px;
+    transform: translateY(-110%);
+    bottom: 10%;
+    font-size: larger;
+    width: 9%;
+    right: 90%;
+    }
+    
+    .lauzahoodie {
+        color: black;
+        margin-left: 30px;
+        font-size: xx-large;
+        position: absolute;
+        left: 41%;
+        top: 30%;
+        font-weight: bold;
+    }
+    
+    .addtocart-shirt {
+        font-weight: bold;
+        background-color: rgb(73, 211, 73);
+        border: none;
+        border-radius: 15px;
+        color: white;
+        padding: 3px 5px;
+        cursor: pointer;
+        margin-left: 30px;
+        position: absolute;
+        left: 40%;
+        width: 90px;
+        transform: translateY(-110%);
+        bottom: 10%;
+        font-size: larger;
+    }
+    
+    .lauzablackshirt {
+        border-radius: 15px;
+        width: 400px;
+        text-align: left;
+        right: 73%;
+        font-size: larger;
+        position: absolute;
+        bottom: 20%;
+        left: 10%;
+    }
+    
+    .dropdown2 {
+        border-color: black;
+        position: absolute;
+        left: 60%;
+        top: 89%;
+        margin-top: 10px;
+    }
+    
+    .sizeblackshirt {
+        width: 20%;
+        position: absolute;
+        left: 12%;
+        bottom: 5%;
+        font-size: large;
+        color: red;
+    }
+    
+    .description {
+        font-size: large;
+        color: black;
+        margin-left: 5%;
+        position: absolute;
+        left: 10%;
+        top: 68%;
+        width: 80%;
+    }
+    
+    .lauzablack {
+        position: absolute;
+        top: 35%;
+        left: 30%;
+        width: 600px;
+        touch-action: double-tap-zoom;
+    }
+
+    
